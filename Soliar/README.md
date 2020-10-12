@@ -8,3 +8,6 @@
 **5.** Changes not occur
 ***
 **7.** Problem appear because 2 line was busy at 2 different branch.
+***
+**9.** Nothing changing because files not sync with remote project to sync it use command git pull origin main
+***
