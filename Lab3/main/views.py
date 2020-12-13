@@ -16,7 +16,6 @@ def health(request):
         'name_of_server': 'Lab3',
         'info_about_server': {
             'system': os.name,
-            'user': os.getlogin(),
             'srv_pid': os.getpid(),
         },
         'info_about_client': {
