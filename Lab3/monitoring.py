@@ -3,8 +3,12 @@ import json
 import logging
 import time
 
+import os
+if not os.path.exists('logs'):
+    os.makedirs('logs')
+
 logging.basicConfig(
-    filename="server.log",
+    filename="logs/server.log",
     filemode='a',
     level=logging.INFO,
     format='{levelname} {asctime} {name} : {message}',
