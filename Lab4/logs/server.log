@@ -1,0 +1,824 @@
+INFO 2020-12-20 23:05:49,868 root : Сервер доступний. Час на сервері: 2020-12-20T23:05:49.866182
+INFO 2020-12-20 23:05:49,869 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:05:49,869 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:05:49,869 root : Ключ: date, Значення: 2020-12-20T23:05:49.866182
+INFO 2020-12-20 23:05:49,869 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:05:49,869 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:05:49,869 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:05:49,869 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:06:49,917 root : Сервер доступний. Час на сервері: 2020-12-20T23:06:49.915382
+INFO 2020-12-20 23:06:49,917 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:06:49,917 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:06:49,917 root : Ключ: date, Значення: 2020-12-20T23:06:49.915382
+INFO 2020-12-20 23:06:49,917 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:06:49,917 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:06:49,917 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:06:49,917 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:07:49,985 root : Сервер доступний. Час на сервері: 2020-12-20T23:07:49.983698
+INFO 2020-12-20 23:07:49,986 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:07:49,987 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:07:49,987 root : Ключ: date, Значення: 2020-12-20T23:07:49.983698
+INFO 2020-12-20 23:07:49,987 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:07:49,987 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:07:49,988 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:07:49,988 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:08:50,050 root : Сервер доступний. Час на сервері: 2020-12-20T23:08:50.047319
+INFO 2020-12-20 23:08:50,050 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:08:50,050 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:08:50,050 root : Ключ: date, Значення: 2020-12-20T23:08:50.047319
+INFO 2020-12-20 23:08:50,050 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:08:50,050 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:08:50,050 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:08:50,051 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:09:50,121 root : Сервер доступний. Час на сервері: 2020-12-20T23:09:50.117250
+INFO 2020-12-20 23:09:50,122 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:09:50,122 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:09:50,122 root : Ключ: date, Значення: 2020-12-20T23:09:50.117250
+INFO 2020-12-20 23:09:50,122 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:09:50,122 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:09:50,122 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:09:50,122 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:10:50,166 root : Сервер доступний. Час на сервері: 2020-12-20T23:10:50.163504
+INFO 2020-12-20 23:10:50,166 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:10:50,166 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:10:50,166 root : Ключ: date, Значення: 2020-12-20T23:10:50.163504
+INFO 2020-12-20 23:10:50,166 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:10:50,167 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:10:50,167 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:10:50,167 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:11:50,205 root : Сервер доступний. Час на сервері: 2020-12-20T23:11:50.201087
+INFO 2020-12-20 23:11:50,205 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:11:50,205 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:11:50,205 root : Ключ: date, Значення: 2020-12-20T23:11:50.201087
+INFO 2020-12-20 23:11:50,205 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:11:50,205 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:11:50,205 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:11:50,205 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:12:50,218 root : Сервер доступний. Час на сервері: 2020-12-20T23:12:50.215118
+INFO 2020-12-20 23:12:50,218 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:12:50,218 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:12:50,218 root : Ключ: date, Значення: 2020-12-20T23:12:50.215118
+INFO 2020-12-20 23:12:50,218 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:12:50,218 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:12:50,218 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:12:50,219 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:13:50,280 root : Сервер доступний. Час на сервері: 2020-12-20T23:13:50.275891
+INFO 2020-12-20 23:13:50,280 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:13:50,280 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:13:50,280 root : Ключ: date, Значення: 2020-12-20T23:13:50.275891
+INFO 2020-12-20 23:13:50,281 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:13:50,281 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:13:50,281 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:13:50,281 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:14:50,292 root : Сервер доступний. Час на сервері: 2020-12-20T23:14:50.290527
+INFO 2020-12-20 23:14:50,292 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:14:50,292 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:14:50,292 root : Ключ: date, Значення: 2020-12-20T23:14:50.290527
+INFO 2020-12-20 23:14:50,292 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:14:50,292 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:14:50,292 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:14:50,292 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:15:50,356 root : Сервер доступний. Час на сервері: 2020-12-20T23:15:50.354207
+INFO 2020-12-20 23:15:50,357 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:15:50,357 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:15:50,357 root : Ключ: date, Значення: 2020-12-20T23:15:50.354207
+INFO 2020-12-20 23:15:50,357 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:15:50,357 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:15:50,357 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:15:50,357 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:16:50,412 root : Сервер доступний. Час на сервері: 2020-12-20T23:16:50.409850
+INFO 2020-12-20 23:16:50,412 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:16:50,412 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:16:50,412 root : Ключ: date, Значення: 2020-12-20T23:16:50.409850
+INFO 2020-12-20 23:16:50,412 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:16:50,413 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:16:50,413 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:16:50,413 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:17:50,428 root : Сервер доступний. Час на сервері: 2020-12-20T23:17:50.425414
+INFO 2020-12-20 23:17:50,428 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:17:50,428 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:17:50,428 root : Ключ: date, Значення: 2020-12-20T23:17:50.425414
+INFO 2020-12-20 23:17:50,428 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:17:50,429 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:17:50,429 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:17:50,429 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:18:50,511 root : Сервер доступний. Час на сервері: 2020-12-20T23:18:50.503998
+INFO 2020-12-20 23:18:50,512 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:18:50,513 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:18:50,513 root : Ключ: date, Значення: 2020-12-20T23:18:50.503998
+INFO 2020-12-20 23:18:50,513 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:18:50,513 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:18:50,513 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:18:50,514 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:19:50,587 root : Сервер доступний. Час на сервері: 2020-12-20T23:19:50.585603
+INFO 2020-12-20 23:19:50,587 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:19:50,587 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:19:50,588 root : Ключ: date, Значення: 2020-12-20T23:19:50.585603
+INFO 2020-12-20 23:19:50,588 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:19:50,588 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:19:50,588 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:19:50,588 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:20:50,630 root : Сервер доступний. Час на сервері: 2020-12-20T23:20:50.623579
+INFO 2020-12-20 23:20:50,630 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:20:50,630 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:20:50,631 root : Ключ: date, Значення: 2020-12-20T23:20:50.623579
+INFO 2020-12-20 23:20:50,631 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:20:50,631 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:20:50,631 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:20:50,631 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:21:50,678 root : Сервер доступний. Час на сервері: 2020-12-20T23:21:50.674109
+INFO 2020-12-20 23:21:50,678 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:21:50,678 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:21:50,678 root : Ключ: date, Значення: 2020-12-20T23:21:50.674109
+INFO 2020-12-20 23:21:50,678 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:21:50,679 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:21:50,679 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:21:50,679 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:22:50,751 root : Сервер доступний. Час на сервері: 2020-12-20T23:22:50.748795
+INFO 2020-12-20 23:22:50,751 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:22:50,751 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:22:50,751 root : Ключ: date, Значення: 2020-12-20T23:22:50.748795
+INFO 2020-12-20 23:22:50,751 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:22:50,751 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:22:50,751 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:22:50,752 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:23:50,804 root : Сервер доступний. Час на сервері: 2020-12-20T23:23:50.801703
+INFO 2020-12-20 23:23:50,804 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:23:50,804 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:23:50,804 root : Ключ: date, Значення: 2020-12-20T23:23:50.801703
+INFO 2020-12-20 23:23:50,805 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:23:50,805 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:23:50,805 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:23:50,805 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:24:50,879 root : Сервер доступний. Час на сервері: 2020-12-20T23:24:50.877652
+INFO 2020-12-20 23:24:50,879 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:24:50,879 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:24:50,879 root : Ключ: date, Значення: 2020-12-20T23:24:50.877652
+INFO 2020-12-20 23:24:50,879 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:24:50,879 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:24:50,880 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:24:50,880 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:25:50,920 root : Сервер доступний. Час на сервері: 2020-12-20T23:25:50.916991
+INFO 2020-12-20 23:25:50,920 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:25:50,920 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:25:50,920 root : Ключ: date, Значення: 2020-12-20T23:25:50.916991
+INFO 2020-12-20 23:25:50,920 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:25:50,920 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:25:50,920 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:25:50,920 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:26:50,990 root : Сервер доступний. Час на сервері: 2020-12-20T23:26:50.987849
+INFO 2020-12-20 23:26:50,992 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:26:50,992 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:26:50,992 root : Ключ: date, Значення: 2020-12-20T23:26:50.987849
+INFO 2020-12-20 23:26:50,992 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:26:50,992 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:26:50,993 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:26:50,993 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:27:51,064 root : Сервер доступний. Час на сервері: 2020-12-20T23:27:51.061836
+INFO 2020-12-20 23:27:51,065 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:27:51,066 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:27:51,066 root : Ключ: date, Значення: 2020-12-20T23:27:51.061836
+INFO 2020-12-20 23:27:51,066 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:27:51,066 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:27:51,066 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:27:51,066 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:28:51,112 root : Сервер доступний. Час на сервері: 2020-12-20T23:28:51.106633
+INFO 2020-12-20 23:28:51,112 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:28:51,112 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:28:51,112 root : Ключ: date, Значення: 2020-12-20T23:28:51.106633
+INFO 2020-12-20 23:28:51,112 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:28:51,112 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:28:51,112 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:28:51,112 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:29:51,183 root : Сервер доступний. Час на сервері: 2020-12-20T23:29:51.174752
+INFO 2020-12-20 23:29:51,185 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:29:51,185 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:29:51,185 root : Ключ: date, Значення: 2020-12-20T23:29:51.174752
+INFO 2020-12-20 23:29:51,186 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:29:51,186 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:29:51,186 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:29:51,186 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:30:51,255 root : Сервер доступний. Час на сервері: 2020-12-20T23:30:51.253167
+INFO 2020-12-20 23:30:51,256 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:30:51,256 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:30:51,256 root : Ключ: date, Значення: 2020-12-20T23:30:51.253167
+INFO 2020-12-20 23:30:51,256 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:30:51,256 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:30:51,256 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:30:51,256 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:31:51,314 root : Сервер доступний. Час на сервері: 2020-12-20T23:31:51.307756
+INFO 2020-12-20 23:31:51,315 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:31:51,315 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:31:51,315 root : Ключ: date, Значення: 2020-12-20T23:31:51.307756
+INFO 2020-12-20 23:31:51,315 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:31:51,315 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:31:51,316 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:31:51,316 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:32:51,362 root : Сервер доступний. Час на сервері: 2020-12-20T23:32:51.360308
+INFO 2020-12-20 23:32:51,362 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:32:51,362 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:32:51,362 root : Ключ: date, Значення: 2020-12-20T23:32:51.360308
+INFO 2020-12-20 23:32:51,362 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:32:51,362 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:32:51,362 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:32:51,362 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:33:51,440 root : Сервер доступний. Час на сервері: 2020-12-20T23:33:51.438985
+INFO 2020-12-20 23:33:51,441 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:33:51,442 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:33:51,452 root : Ключ: date, Значення: 2020-12-20T23:33:51.438985
+INFO 2020-12-20 23:33:51,452 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:33:51,452 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:33:51,452 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:33:51,452 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:34:51,502 root : Сервер доступний. Час на сервері: 2020-12-20T23:34:51.500589
+INFO 2020-12-20 23:34:51,504 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:34:51,505 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:34:51,505 root : Ключ: date, Значення: 2020-12-20T23:34:51.500589
+INFO 2020-12-20 23:34:51,506 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:34:51,506 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:34:51,506 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:34:51,506 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:35:51,569 root : Сервер доступний. Час на сервері: 2020-12-20T23:35:51.568252
+INFO 2020-12-20 23:35:51,570 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:35:51,571 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:35:51,571 root : Ключ: date, Значення: 2020-12-20T23:35:51.568252
+INFO 2020-12-20 23:35:51,572 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:35:51,572 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:35:51,574 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:35:51,574 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:36:51,634 root : Сервер доступний. Час на сервері: 2020-12-20T23:36:51.633014
+INFO 2020-12-20 23:36:51,635 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:36:51,636 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:36:51,637 root : Ключ: date, Значення: 2020-12-20T23:36:51.633014
+INFO 2020-12-20 23:36:51,637 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:36:51,637 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:36:51,637 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:36:51,637 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:37:51,702 root : Сервер доступний. Час на сервері: 2020-12-20T23:37:51.699926
+INFO 2020-12-20 23:37:51,702 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:37:51,702 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:37:51,702 root : Ключ: date, Значення: 2020-12-20T23:37:51.699926
+INFO 2020-12-20 23:37:51,702 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:37:51,702 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:37:51,702 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:37:51,702 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:38:51,756 root : Сервер доступний. Час на сервері: 2020-12-20T23:38:51.755398
+INFO 2020-12-20 23:38:51,756 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:38:51,756 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:38:51,757 root : Ключ: date, Значення: 2020-12-20T23:38:51.755398
+INFO 2020-12-20 23:38:51,757 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:38:51,757 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:38:51,757 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:38:51,757 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:39:51,786 root : Сервер доступний. Час на сервері: 2020-12-20T23:39:51.784154
+INFO 2020-12-20 23:39:51,788 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:39:51,788 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:39:51,789 root : Ключ: date, Значення: 2020-12-20T23:39:51.784154
+INFO 2020-12-20 23:39:51,789 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:39:51,789 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:39:51,789 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:39:51,789 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:40:51,858 root : Сервер доступний. Час на сервері: 2020-12-20T23:40:51.855911
+INFO 2020-12-20 23:40:51,860 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:40:51,862 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:40:51,862 root : Ключ: date, Значення: 2020-12-20T23:40:51.855911
+INFO 2020-12-20 23:40:51,862 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:40:51,862 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:40:51,862 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:40:51,863 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:41:51,923 root : Сервер доступний. Час на сервері: 2020-12-20T23:41:51.920965
+INFO 2020-12-20 23:41:51,923 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:41:51,923 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:41:51,923 root : Ключ: date, Значення: 2020-12-20T23:41:51.920965
+INFO 2020-12-20 23:41:51,923 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:41:51,923 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:41:51,923 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:41:51,923 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:42:51,937 root : Сервер доступний. Час на сервері: 2020-12-20T23:42:51.934980
+INFO 2020-12-20 23:42:51,937 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:42:51,937 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:42:51,937 root : Ключ: date, Значення: 2020-12-20T23:42:51.934980
+INFO 2020-12-20 23:42:51,937 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:42:51,937 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:42:51,937 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:42:51,937 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:43:52,004 root : Сервер доступний. Час на сервері: 2020-12-20T23:43:52.002171
+INFO 2020-12-20 23:43:52,004 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:43:52,004 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:43:52,004 root : Ключ: date, Значення: 2020-12-20T23:43:52.002171
+INFO 2020-12-20 23:43:52,005 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:43:52,005 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:43:52,005 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:43:52,005 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:44:52,073 root : Сервер доступний. Час на сервері: 2020-12-20T23:44:52.071313
+INFO 2020-12-20 23:44:52,073 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:44:52,073 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:44:52,073 root : Ключ: date, Значення: 2020-12-20T23:44:52.071313
+INFO 2020-12-20 23:44:52,074 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:44:52,074 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:44:52,074 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:44:52,074 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:45:52,105 root : Сервер доступний. Час на сервері: 2020-12-20T23:45:52.102969
+INFO 2020-12-20 23:45:52,105 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:45:52,105 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:45:52,105 root : Ключ: date, Значення: 2020-12-20T23:45:52.102969
+INFO 2020-12-20 23:45:52,105 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:45:52,106 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:45:52,106 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:45:52,106 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:46:52,191 root : Сервер доступний. Час на сервері: 2020-12-20T23:46:52.185259
+INFO 2020-12-20 23:46:52,192 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:46:52,192 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:46:52,192 root : Ключ: date, Значення: 2020-12-20T23:46:52.185259
+INFO 2020-12-20 23:46:52,192 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:46:52,192 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:46:52,192 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:46:52,192 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:47:52,261 root : Сервер доступний. Час на сервері: 2020-12-20T23:47:52.253271
+INFO 2020-12-20 23:47:52,262 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:47:52,262 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:47:52,262 root : Ключ: date, Значення: 2020-12-20T23:47:52.253271
+INFO 2020-12-20 23:47:52,262 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:47:52,263 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:47:52,263 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:47:52,263 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:48:52,332 root : Сервер доступний. Час на сервері: 2020-12-20T23:48:52.330966
+INFO 2020-12-20 23:48:52,332 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:48:52,332 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:48:52,332 root : Ключ: date, Значення: 2020-12-20T23:48:52.330966
+INFO 2020-12-20 23:48:52,333 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:48:52,333 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:48:52,333 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:48:52,333 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:49:52,411 root : Сервер доступний. Час на сервері: 2020-12-20T23:49:52.407804
+INFO 2020-12-20 23:49:52,412 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:49:52,412 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:49:52,412 root : Ключ: date, Значення: 2020-12-20T23:49:52.407804
+INFO 2020-12-20 23:49:52,412 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:49:52,412 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:49:52,412 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:49:52,412 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:50:52,480 root : Сервер доступний. Час на сервері: 2020-12-20T23:50:52.477562
+INFO 2020-12-20 23:50:52,481 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:50:52,481 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:50:52,481 root : Ключ: date, Значення: 2020-12-20T23:50:52.477562
+INFO 2020-12-20 23:50:52,481 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:50:52,481 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:50:52,481 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:50:52,482 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:51:52,552 root : Сервер доступний. Час на сервері: 2020-12-20T23:51:52.550067
+INFO 2020-12-20 23:51:52,552 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:51:52,553 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:51:52,553 root : Ключ: date, Значення: 2020-12-20T23:51:52.550067
+INFO 2020-12-20 23:51:52,553 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:51:52,553 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:51:52,553 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:51:52,553 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:52:52,604 root : Сервер доступний. Час на сервері: 2020-12-20T23:52:52.603090
+INFO 2020-12-20 23:52:52,605 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:52:52,605 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:52:52,605 root : Ключ: date, Значення: 2020-12-20T23:52:52.603090
+INFO 2020-12-20 23:52:52,605 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:52:52,605 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:52:52,605 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:52:52,605 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:53:52,633 root : Сервер доступний. Час на сервері: 2020-12-20T23:53:52.629139
+INFO 2020-12-20 23:53:52,633 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:53:52,633 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:53:52,633 root : Ключ: date, Значення: 2020-12-20T23:53:52.629139
+INFO 2020-12-20 23:53:52,634 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:53:52,634 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:53:52,634 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:53:52,634 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:54:52,704 root : Сервер доступний. Час на сервері: 2020-12-20T23:54:52.702807
+INFO 2020-12-20 23:54:52,705 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:54:52,705 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:54:52,705 root : Ключ: date, Значення: 2020-12-20T23:54:52.702807
+INFO 2020-12-20 23:54:52,705 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:54:52,705 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:54:52,705 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:54:52,705 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:55:52,778 root : Сервер доступний. Час на сервері: 2020-12-20T23:55:52.770218
+INFO 2020-12-20 23:55:52,778 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:55:52,778 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:55:52,778 root : Ключ: date, Значення: 2020-12-20T23:55:52.770218
+INFO 2020-12-20 23:55:52,778 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:55:52,778 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:55:52,778 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:55:52,778 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:56:52,836 root : Сервер доступний. Час на сервері: 2020-12-20T23:56:52.831693
+INFO 2020-12-20 23:56:52,836 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:56:52,836 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:56:52,836 root : Ключ: date, Значення: 2020-12-20T23:56:52.831693
+INFO 2020-12-20 23:56:52,836 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:56:52,836 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:56:52,836 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:56:52,836 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:57:52,903 root : Сервер доступний. Час на сервері: 2020-12-20T23:57:52.899270
+INFO 2020-12-20 23:57:52,903 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:57:52,903 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:57:52,903 root : Ключ: date, Значення: 2020-12-20T23:57:52.899270
+INFO 2020-12-20 23:57:52,903 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:57:52,903 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:57:52,903 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:57:52,903 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:58:52,977 root : Сервер доступний. Час на сервері: 2020-12-20T23:58:52.975951
+INFO 2020-12-20 23:58:52,978 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:58:52,978 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:58:52,978 root : Ключ: date, Значення: 2020-12-20T23:58:52.975951
+INFO 2020-12-20 23:58:52,978 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:58:52,978 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:58:52,978 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:58:52,978 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-20 23:59:53,054 root : Сервер доступний. Час на сервері: 2020-12-20T23:59:53.053353
+INFO 2020-12-20 23:59:53,054 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-20 23:59:53,055 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-20 23:59:53,055 root : Ключ: date, Значення: 2020-12-20T23:59:53.053353
+INFO 2020-12-20 23:59:53,055 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-20 23:59:53,055 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-20 23:59:53,055 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-20 23:59:53,055 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:00:53,106 root : Сервер доступний. Час на сервері: 2020-12-21T00:00:53.101471
+INFO 2020-12-21 00:00:53,107 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:00:53,108 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:00:53,108 root : Ключ: date, Значення: 2020-12-21T00:00:53.101471
+INFO 2020-12-21 00:00:53,108 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:00:53,109 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:00:53,109 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:00:53,109 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:01:53,178 root : Сервер доступний. Час на сервері: 2020-12-21T00:01:53.169595
+INFO 2020-12-21 00:01:53,178 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:01:53,178 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:01:53,178 root : Ключ: date, Значення: 2020-12-21T00:01:53.169595
+INFO 2020-12-21 00:01:53,178 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:01:53,178 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:01:53,178 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:01:53,178 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:02:53,247 root : Сервер доступний. Час на сервері: 2020-12-21T00:02:53.244161
+INFO 2020-12-21 00:02:53,247 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:02:53,247 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:02:53,247 root : Ключ: date, Значення: 2020-12-21T00:02:53.244161
+INFO 2020-12-21 00:02:53,247 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:02:53,247 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:02:53,247 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:02:53,248 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:03:53,300 root : Сервер доступний. Час на сервері: 2020-12-21T00:03:53.293898
+INFO 2020-12-21 00:03:53,300 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:03:53,300 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:03:53,300 root : Ключ: date, Значення: 2020-12-21T00:03:53.293898
+INFO 2020-12-21 00:03:53,301 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:03:53,301 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:03:53,301 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:03:53,301 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:04:53,373 root : Сервер доступний. Час на сервері: 2020-12-21T00:04:53.368429
+INFO 2020-12-21 00:04:53,373 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:04:53,374 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:04:53,374 root : Ключ: date, Значення: 2020-12-21T00:04:53.368429
+INFO 2020-12-21 00:04:53,374 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:04:53,374 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:04:53,374 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:04:53,374 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:05:53,421 root : Сервер доступний. Час на сервері: 2020-12-21T00:05:53.418305
+INFO 2020-12-21 00:05:53,421 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:05:53,421 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:05:53,421 root : Ключ: date, Значення: 2020-12-21T00:05:53.418305
+INFO 2020-12-21 00:05:53,421 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:05:53,421 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:05:53,422 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:05:53,422 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:06:53,477 root : Сервер доступний. Час на сервері: 2020-12-21T00:06:53.475348
+INFO 2020-12-21 00:06:53,477 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:06:53,477 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:06:53,477 root : Ключ: date, Значення: 2020-12-21T00:06:53.475348
+INFO 2020-12-21 00:06:53,477 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:06:53,477 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:06:53,477 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:06:53,477 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:07:53,544 root : Сервер доступний. Час на сервері: 2020-12-21T00:07:53.542663
+INFO 2020-12-21 00:07:53,544 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:07:53,544 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:07:53,544 root : Ключ: date, Значення: 2020-12-21T00:07:53.542663
+INFO 2020-12-21 00:07:53,544 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:07:53,544 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:07:53,544 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:07:53,544 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:08:53,589 root : Сервер доступний. Час на сервері: 2020-12-21T00:08:53.584792
+INFO 2020-12-21 00:08:53,589 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:08:53,590 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:08:53,591 root : Ключ: date, Значення: 2020-12-21T00:08:53.584792
+INFO 2020-12-21 00:08:53,591 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:08:53,591 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:08:53,592 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:08:53,592 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:09:53,614 root : Сервер доступний. Час на сервері: 2020-12-21T00:09:53.612679
+INFO 2020-12-21 00:09:53,614 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:09:53,614 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:09:53,614 root : Ключ: date, Значення: 2020-12-21T00:09:53.612679
+INFO 2020-12-21 00:09:53,615 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:09:53,615 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:09:53,615 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:09:53,615 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:10:53,632 root : Сервер доступний. Час на сервері: 2020-12-21T00:10:53.628172
+INFO 2020-12-21 00:10:53,632 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:10:53,632 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:10:53,632 root : Ключ: date, Значення: 2020-12-21T00:10:53.628172
+INFO 2020-12-21 00:10:53,632 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:10:53,633 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:10:53,633 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:10:53,633 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:11:53,706 root : Сервер доступний. Час на сервері: 2020-12-21T00:11:53.701493
+INFO 2020-12-21 00:11:53,707 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:11:53,707 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:11:53,707 root : Ключ: date, Значення: 2020-12-21T00:11:53.701493
+INFO 2020-12-21 00:11:53,707 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:11:53,707 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:11:53,707 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:11:53,707 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:12:53,781 root : Сервер доступний. Час на сервері: 2020-12-21T00:12:53.777918
+INFO 2020-12-21 00:12:53,781 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:12:53,781 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:12:53,781 root : Ключ: date, Значення: 2020-12-21T00:12:53.777918
+INFO 2020-12-21 00:12:53,781 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:12:53,781 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:12:53,781 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:12:53,783 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:13:53,830 root : Сервер доступний. Час на сервері: 2020-12-21T00:13:53.827950
+INFO 2020-12-21 00:13:53,830 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:13:53,830 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:13:53,830 root : Ключ: date, Значення: 2020-12-21T00:13:53.827950
+INFO 2020-12-21 00:13:53,830 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:13:53,830 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:13:53,830 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:13:53,830 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:14:53,897 root : Сервер доступний. Час на сервері: 2020-12-21T00:14:53.895302
+INFO 2020-12-21 00:14:53,897 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:14:53,897 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:14:53,897 root : Ключ: date, Значення: 2020-12-21T00:14:53.895302
+INFO 2020-12-21 00:14:53,897 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:14:53,897 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:14:53,897 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:14:53,898 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:15:53,974 root : Сервер доступний. Час на сервері: 2020-12-21T00:15:53.970025
+INFO 2020-12-21 00:15:53,974 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:15:53,974 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:15:53,974 root : Ключ: date, Значення: 2020-12-21T00:15:53.970025
+INFO 2020-12-21 00:15:53,974 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:15:53,974 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:15:53,974 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:15:53,974 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:16:54,050 root : Сервер доступний. Час на сервері: 2020-12-21T00:16:54.048801
+INFO 2020-12-21 00:16:54,050 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:16:54,050 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:16:54,050 root : Ключ: date, Значення: 2020-12-21T00:16:54.048801
+INFO 2020-12-21 00:16:54,050 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:16:54,050 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:16:54,051 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:16:54,051 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:17:54,124 root : Сервер доступний. Час на сервері: 2020-12-21T00:17:54.117464
+INFO 2020-12-21 00:17:54,124 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:17:54,124 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:17:54,124 root : Ключ: date, Значення: 2020-12-21T00:17:54.117464
+INFO 2020-12-21 00:17:54,124 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:17:54,124 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:17:54,124 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:17:54,124 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:18:54,181 root : Сервер доступний. Час на сервері: 2020-12-21T00:18:54.177748
+INFO 2020-12-21 00:18:54,182 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:18:54,182 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:18:54,183 root : Ключ: date, Значення: 2020-12-21T00:18:54.177748
+INFO 2020-12-21 00:18:54,183 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:18:54,184 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:18:54,184 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:18:54,185 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:19:54,254 root : Сервер доступний. Час на сервері: 2020-12-21T00:19:54.250387
+INFO 2020-12-21 00:19:54,255 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:19:54,255 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:19:54,255 root : Ключ: date, Значення: 2020-12-21T00:19:54.250387
+INFO 2020-12-21 00:19:54,255 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:19:54,255 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:19:54,255 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:19:54,255 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:20:54,266 root : Сервер доступний. Час на сервері: 2020-12-21T00:20:54.264300
+INFO 2020-12-21 00:20:54,266 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:20:54,266 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:20:54,266 root : Ключ: date, Значення: 2020-12-21T00:20:54.264300
+INFO 2020-12-21 00:20:54,267 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:20:54,267 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:20:54,267 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:20:54,268 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:21:54,344 root : Сервер доступний. Час на сервері: 2020-12-21T00:21:54.339744
+INFO 2020-12-21 00:21:54,344 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:21:54,344 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:21:54,344 root : Ключ: date, Значення: 2020-12-21T00:21:54.339744
+INFO 2020-12-21 00:21:54,344 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:21:54,344 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:21:54,344 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:21:54,344 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:22:54,417 root : Сервер доступний. Час на сервері: 2020-12-21T00:22:54.412316
+INFO 2020-12-21 00:22:54,417 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:22:54,418 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:22:54,418 root : Ключ: date, Значення: 2020-12-21T00:22:54.412316
+INFO 2020-12-21 00:22:54,418 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:22:54,418 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:22:54,418 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:22:54,418 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:23:54,494 root : Сервер доступний. Час на сервері: 2020-12-21T00:23:54.492695
+INFO 2020-12-21 00:23:54,494 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:23:54,494 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:23:54,494 root : Ключ: date, Значення: 2020-12-21T00:23:54.492695
+INFO 2020-12-21 00:23:54,494 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:23:54,494 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:23:54,494 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:23:54,495 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:24:54,554 root : Сервер доступний. Час на сервері: 2020-12-21T00:24:54.552633
+INFO 2020-12-21 00:24:54,554 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:24:54,554 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:24:54,554 root : Ключ: date, Значення: 2020-12-21T00:24:54.552633
+INFO 2020-12-21 00:24:54,554 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:24:54,554 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:24:54,554 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:24:54,554 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:25:54,635 root : Сервер доступний. Час на сервері: 2020-12-21T00:25:54.631492
+INFO 2020-12-21 00:25:54,635 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:25:54,635 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:25:54,635 root : Ключ: date, Значення: 2020-12-21T00:25:54.631492
+INFO 2020-12-21 00:25:54,635 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:25:54,635 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:25:54,635 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:25:54,636 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:26:54,696 root : Сервер доступний. Час на сервері: 2020-12-21T00:26:54.694948
+INFO 2020-12-21 00:26:54,696 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:26:54,696 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:26:54,696 root : Ключ: date, Значення: 2020-12-21T00:26:54.694948
+INFO 2020-12-21 00:26:54,697 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:26:54,697 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:26:54,697 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:26:54,697 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:27:54,741 root : Сервер доступний. Час на сервері: 2020-12-21T00:27:54.739996
+INFO 2020-12-21 00:27:54,741 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:27:54,741 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:27:54,741 root : Ключ: date, Значення: 2020-12-21T00:27:54.739996
+INFO 2020-12-21 00:27:54,741 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:27:54,741 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:27:54,741 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:27:54,742 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:28:54,813 root : Сервер доступний. Час на сервері: 2020-12-21T00:28:54.811141
+INFO 2020-12-21 00:28:54,814 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:28:54,814 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:28:54,814 root : Ключ: date, Значення: 2020-12-21T00:28:54.811141
+INFO 2020-12-21 00:28:54,814 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:28:54,814 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:28:54,814 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:28:54,814 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:29:54,882 root : Сервер доступний. Час на сервері: 2020-12-21T00:29:54.881212
+INFO 2020-12-21 00:29:54,884 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:29:54,884 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:29:54,885 root : Ключ: date, Значення: 2020-12-21T00:29:54.881212
+INFO 2020-12-21 00:29:54,885 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:29:54,885 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:29:54,885 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:29:54,885 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:30:54,950 root : Сервер доступний. Час на сервері: 2020-12-21T00:30:54.948419
+INFO 2020-12-21 00:30:54,950 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:30:54,950 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:30:54,950 root : Ключ: date, Значення: 2020-12-21T00:30:54.948419
+INFO 2020-12-21 00:30:54,950 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:30:54,950 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:30:54,951 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:30:54,951 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:31:54,985 root : Сервер доступний. Час на сервері: 2020-12-21T00:31:54.978343
+INFO 2020-12-21 00:31:54,985 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:31:54,986 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:31:54,986 root : Ключ: date, Значення: 2020-12-21T00:31:54.978343
+INFO 2020-12-21 00:31:54,986 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:31:54,986 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:31:54,986 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:31:54,986 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:32:55,018 root : Сервер доступний. Час на сервері: 2020-12-21T00:32:55.014134
+INFO 2020-12-21 00:32:55,018 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:32:55,019 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:32:55,019 root : Ключ: date, Значення: 2020-12-21T00:32:55.014134
+INFO 2020-12-21 00:32:55,019 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:32:55,019 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:32:55,019 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:32:55,019 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:33:55,039 root : Сервер доступний. Час на сервері: 2020-12-21T00:33:55.030959
+INFO 2020-12-21 00:33:55,039 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:33:55,039 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:33:55,040 root : Ключ: date, Значення: 2020-12-21T00:33:55.030959
+INFO 2020-12-21 00:33:55,040 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:33:55,040 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:33:55,040 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:33:55,040 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:34:55,075 root : Сервер доступний. Час на сервері: 2020-12-21T00:34:55.073762
+INFO 2020-12-21 00:34:55,076 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:34:55,076 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:34:55,076 root : Ключ: date, Значення: 2020-12-21T00:34:55.073762
+INFO 2020-12-21 00:34:55,076 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:34:55,076 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:34:55,076 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:34:55,076 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:35:55,127 root : Сервер доступний. Час на сервері: 2020-12-21T00:35:55.125621
+INFO 2020-12-21 00:35:55,128 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:35:55,128 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:35:55,128 root : Ключ: date, Значення: 2020-12-21T00:35:55.125621
+INFO 2020-12-21 00:35:55,128 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:35:55,128 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:35:55,128 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:35:55,128 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:36:55,185 root : Сервер доступний. Час на сервері: 2020-12-21T00:36:55.182501
+INFO 2020-12-21 00:36:55,185 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:36:55,185 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:36:55,185 root : Ключ: date, Значення: 2020-12-21T00:36:55.182501
+INFO 2020-12-21 00:36:55,185 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:36:55,185 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:36:55,186 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:36:55,186 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:37:55,266 root : Сервер доступний. Час на сервері: 2020-12-21T00:37:55.262038
+INFO 2020-12-21 00:37:55,266 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:37:55,267 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:37:55,267 root : Ключ: date, Значення: 2020-12-21T00:37:55.262038
+INFO 2020-12-21 00:37:55,267 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:37:55,267 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:37:55,267 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:37:55,267 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:38:55,342 root : Сервер доступний. Час на сервері: 2020-12-21T00:38:55.336240
+INFO 2020-12-21 00:38:55,344 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:38:55,345 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:38:55,345 root : Ключ: date, Значення: 2020-12-21T00:38:55.336240
+INFO 2020-12-21 00:38:55,345 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:38:55,345 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:38:55,345 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:38:55,345 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 00:39:55,428 root : Сервер доступний. Час на сервері: 2020-12-21T00:39:55.426235
+INFO 2020-12-21 00:39:55,429 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 00:39:55,430 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 00:39:55,430 root : Ключ: date, Значення: 2020-12-21T00:39:55.426235
+INFO 2020-12-21 00:39:55,430 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 00:39:55,430 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 00:39:55,430 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 00:39:55,430 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:09:23,093 root : Сервер доступний. Час на сервері: 2020-12-21T09:09:23.091869
+INFO 2020-12-21 09:09:23,094 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:09:23,095 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:09:23,095 root : Ключ: date, Значення: 2020-12-21T09:09:23.091869
+INFO 2020-12-21 09:09:23,096 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:09:23,096 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:09:23,097 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:09:23,097 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:10:23,167 root : Сервер доступний. Час на сервері: 2020-12-21T09:10:23.156452
+INFO 2020-12-21 09:10:23,168 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:10:23,168 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:10:23,168 root : Ключ: date, Значення: 2020-12-21T09:10:23.156452
+INFO 2020-12-21 09:10:23,168 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:10:23,168 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:10:23,168 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:10:23,168 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:11:23,193 root : Сервер доступний. Час на сервері: 2020-12-21T09:11:23.191688
+INFO 2020-12-21 09:11:23,193 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:11:23,193 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:11:23,193 root : Ключ: date, Значення: 2020-12-21T09:11:23.191688
+INFO 2020-12-21 09:11:23,193 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:11:23,194 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:11:23,194 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:11:23,194 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:12:23,271 root : Сервер доступний. Час на сервері: 2020-12-21T09:12:23.267435
+INFO 2020-12-21 09:12:23,271 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:12:23,271 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:12:23,271 root : Ключ: date, Значення: 2020-12-21T09:12:23.267435
+INFO 2020-12-21 09:12:23,272 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:12:23,272 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:12:23,272 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:12:23,272 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:13:23,361 root : Сервер доступний. Час на сервері: 2020-12-21T09:13:23.359416
+INFO 2020-12-21 09:13:23,362 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:13:23,362 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:13:23,362 root : Ключ: date, Значення: 2020-12-21T09:13:23.359416
+INFO 2020-12-21 09:13:23,362 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:13:23,362 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:13:23,362 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:13:23,362 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:14:23,455 root : Сервер доступний. Час на сервері: 2020-12-21T09:14:23.453087
+INFO 2020-12-21 09:14:23,455 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:14:23,455 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:14:23,456 root : Ключ: date, Значення: 2020-12-21T09:14:23.453087
+INFO 2020-12-21 09:14:23,456 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:14:23,456 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:14:23,456 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:14:23,456 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:15:23,532 root : Сервер доступний. Час на сервері: 2020-12-21T09:15:23.527273
+INFO 2020-12-21 09:15:23,532 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:15:23,532 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:15:23,533 root : Ключ: date, Значення: 2020-12-21T09:15:23.527273
+INFO 2020-12-21 09:15:23,533 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:15:23,533 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:15:23,533 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:15:23,533 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO 2020-12-21 09:16:23,636 root : Сервер доступний. Час на сервері: 2020-12-21T09:16:23.632674
+INFO 2020-12-21 09:16:23,636 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-12-21 09:16:23,636 root : Відповідь сервера місти наступні поля:
+INFO 2020-12-21 09:16:23,636 root : Ключ: date, Значення: 2020-12-21T09:16:23.632674
+INFO 2020-12-21 09:16:23,636 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-12-21 09:16:23,637 root : Ключ: name_of_server, Значення: Lab3
+INFO 2020-12-21 09:16:23,637 root : Ключ: info_about_server, Значення: {'system': 'posix', 'srv_pid': 12}
+INFO 2020-12-21 09:16:23,637 root : Ключ: info_about_client, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}

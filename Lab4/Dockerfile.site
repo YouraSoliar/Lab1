@@ -1,4 +1,3 @@
-
 FROM python:3.8-slim
 
 LABEL author="Yurii"
@@ -23,8 +22,4 @@ RUN cp -r /lab/Lab1/Lab3/* .
 # Інсталюємо всі залежності
 RUN pipenv install
 
-# Відкриваємо порт 8000 на зовні
-EXPOSE 8000
-
-# Це команда яка виконається при створенні контейнера
-ENTRYPOINT ["pipenv", "run", "python", "manage.py", "runserver", "0.0.0.0:8000"]
+CMD ["pipenv", "run", "python", "monitoring.py"]
