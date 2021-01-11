@@ -21,8 +21,9 @@ docker-prune:
 	&& sudo docker network prune --force \
 	&& sudo docker image prune --force
 
-push:
-	@$(foreach state,$(STATES), sudo docker push $(REPO):$(state);)
+docker-push:
+	@docker push $(REPO):app \
+	&& docker push $(REPO):tests
 
 images-delete:
 	@sudo docker image rm --force $(shell sudo docker images -q)

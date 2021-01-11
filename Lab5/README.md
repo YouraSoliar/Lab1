@@ -33,13 +33,31 @@ Makefile has some rules
 
 **9**
 Build and run app. Web pages work well
+![alt text](Screenshot/3.jpg)
+![alt text](Screenshot/2.jpg)
 ![alt text](Screenshot/1.jpg)
 
 **10**
+Cleaned all resources in project using
+
+```
+make docker-prune
+```
 
 **11**
+Created pushing images to the Dockerhub
+```
+docker-push:
+	@docker push $(REPO):app \
+	&& docker push $(REPO):tests
+```
 
 **12**
+Created rule witch delete images
+````
+images-delete:
+	@sudo docker image rm --force $(shell sudo docker images -q)
+```
 
 **13**
 
