@@ -33,7 +33,7 @@ Makefile has some rules
 
 **9**
 Build and run app. Web pages work well
-![alt text](Screenshot/1.png)
+![alt text](Screenshot/1.jpg)
 
 **10**
 
