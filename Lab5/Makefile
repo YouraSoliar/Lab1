@@ -7,12 +7,12 @@ $(STATES):
 	@sudo docker build -f Dockerfile.$(@) -t $(REPO):$(@) .
 
 run:
-	@sudo docker network create --driver=bridge appnet \
-	&& sudo docker run --rm --name redis --net=appnet -d redis \
-	&& sudo docker run --rm --name app --net=appnet -p 5000:5000 -d $(REPO):app
+	@docker network create --driver=bridge appnet \
+	&& docker run --rm --name redis --net=appnet -d redis \
+	&& docker run --rm --name app --net=appnet -p 5000:5000 -d $(REPO):app
 
 test-app:
-	@sudo docker run --rm -it --name test --net=appnet $(REPO):tests
+	@ sudo docker run --rm -it --name test --net=appnet $(REPO):tests
 
 docker-prune:
 	@sudo docker rm $$(sudo docker ps -a -q) --force || true \

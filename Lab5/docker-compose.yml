@@ -19,7 +19,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.tests
-    image: Lab1/Lab5:compose-tests
+    image: yourasoliar/lab_5:compose-tests
     container_name: tests
     depends_on:
       - hits

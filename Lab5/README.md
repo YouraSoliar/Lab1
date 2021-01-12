@@ -54,25 +54,47 @@ docker-push:
 
 **12**
 Created rule witch delete images
-````
+```
 images-delete:
 	@sudo docker image rm --force $(shell sudo docker images -q)
 ```
 
 **13**
+Created docker-compose.yml
 
 **14**
+Run docker-compose using
+```
+sudo docker-compose up
+```
 
 **15**
+Web page works well on port 
+```
+localhost:80
+```
 
 **16**
+docker-compose has created image
+
 
 **17**
+Stoped docker-compose using 
+```
+sudo docker-compose down
+```
 
 **18**
+I have pushed images to thed DockerHub using
+```
+sudo docker-compose push
+```
 
 **19**
+In my opinion docker-compose is better for using. This way is more for docker context and do more docer functions.
 
 **20**
+I have created docker-compose for Lab4 of Django project in Lab4 folder. After complitting Django and monitoring started well.
 
 **21**
+Created README file and created pull request
