@@ -22,3 +22,6 @@ deploy:
 	git add results.txt
 	git commit
 	git push origin main
+
+test-cli:
+	pipenv run pytest tests/tests.py
