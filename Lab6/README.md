@@ -11,6 +11,7 @@ Learnt about Travis in documentations
 Add .travis.yml file
 
 **4**
+Travis CI build started
 
 **5**
 
