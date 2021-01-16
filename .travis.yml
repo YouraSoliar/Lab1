@@ -27,7 +27,7 @@ jobs:
         - cd ./Lab4/
       script:
         - docker build -t yourasoliar/lab_4:django-travis .
-        - docker build -t yourasoliar/lab_4:monitor-travis --file Dockerfile.monitor . 
+        - docker build -t yourasoliar/lab_4:monitor-travis --file Dockerfile.site . 
         - docker images
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push yourasoliar/lab_4:django-travis; else echo "PR skip deploy"; fi
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push yourasoliar/lab_4:monitor-travis; else echo "PR skip deploy"; fi
