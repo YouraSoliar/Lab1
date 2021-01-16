@@ -16,7 +16,7 @@ jobs:
       name: "Run Djungo Server and test it accessibility. Fail to run and test"
       python: 3.8
       install:
-        - cd ./lab3/
+        - cd ./Lab3/
         - pipenv install
       script: ./scripts/travis-build.sh
     - stage: "Build Lab 4."
@@ -24,7 +24,7 @@ jobs:
       services:
         - docker
       install:
-        - cd ./lab4/
+        - cd ./Lab4/
       script:
         - docker build -t sashakovalchuk/lab4:django-travis .
         - docker build -t sashakovalchuk/lab4:monitor-travis --file Dockerfile.monitor . 
@@ -36,7 +36,7 @@ jobs:
       services:
         - docker
       install:
-        - cd ./lab5/
+        - cd ./Lab5/
         - make app
         - make tests
       script:
